@@ -1,0 +1,19 @@
+{
+  "name": "tindog",
+  "version": "1.0.0",
+  "description": "a project for learning bootstrap 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khanhtran47/TinDog.git"
+  },
+  "author": "Khanh Tran Duc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khanhtran47/TinDog/issues"
+  },
+  "homepage": "https://github.com/Khanhtran47/TinDog#readme"
+}
